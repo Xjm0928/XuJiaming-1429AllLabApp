@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\XuJiaming-1429AllLabApp\bin\Debug\XuJiaming-1429AllLabApp.exe.config
+C:\Users\Lenovo\source\repos\XuJiaming-1429AllLabApp\bin\Debug\XuJiaming-1429AllLabApp.exe
+C:\Users\Lenovo\source\repos\XuJiaming-1429AllLabApp\bin\Debug\XuJiaming-1429AllLabApp.pdb
+C:\Users\Lenovo\source\repos\XuJiaming-1429AllLabApp\obj\Debug\XuJiaming-1429AllLabApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\XuJiaming-1429AllLabApp\obj\Debug\XuJiaming-1429AllLabApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\XuJiaming-1429AllLabApp\obj\Debug\XuJiaming-1429AllLabApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\XuJiaming-1429AllLabApp\obj\Debug\XuJiaming-1429AllLabApp.exe
+C:\Users\Lenovo\source\repos\XuJiaming-1429AllLabApp\obj\Debug\XuJiaming-1429AllLabApp.pdb
